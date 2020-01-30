@@ -1,0 +1,5 @@
+Instructions:
+
+1.used H2 inmomery DB 
+2.API's are self descriptive
+3.Data need to be loaded first via "/continent" API- HTTP POST
